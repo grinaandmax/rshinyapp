@@ -16,9 +16,6 @@ The Shiny app features a clean and user-friendly design with a default color sch
 ## Dependencies
 The code relies on several R packages, including Shiny for creating interactive web applications, ggplot2 for data visualization, scales for axis scaling, dplyr and tidyr for data manipulation, tibble for data structure, and tidyquant and tidyverse for tidy data analysis.
 
-## Author
-Grina Hwang
-
 ## How to Use
 **To get started:**
 Clone or download the repository to your local machine.
